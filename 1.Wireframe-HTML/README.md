@@ -1,5 +1,4 @@
-Ejercicio 1 
+# Página online
 
-Aquí está la web online
-https://sargentogato.github.io/wireframe-to-html-1/ 
+## https://sargentogato.github.io/wireframe-to-html-1/ 
 
