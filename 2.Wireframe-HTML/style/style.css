@@ -1,13 +1,10 @@
-html {
+body {
   box-sizing: border-box;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 16px;
   scroll-behavior: smooth;
 }
 
-*,
-*::after,
-*::before,
 body,
 form,
 p {
@@ -67,8 +64,8 @@ body {
   justify-content: center;
   width: 100%;
 
-  font-family: "Big Shoulders Display", cursive;
-  font-family: "Lobster", cursive;
+  font-family: 'Big Shoulders Display', cursive;
+  font-family: 'Lobster', cursive;
 }
 
 .main-box {
@@ -89,7 +86,7 @@ body {
   height: var(--height-header-mobile);
   justify-content: space-between;
 
-  background-image: url("../img/fondo.jpg");
+  background-image: url('../img/fondo.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -262,7 +259,7 @@ body {
 
   background-color: #fa4a3b;
 
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-weight: 600;
 }
 
