@@ -166,7 +166,7 @@ body {
 }
 
 .cards__item {
-  width: 50%;
+  width: 100%;
   height: 100%;
 
   display: flex;
@@ -188,6 +188,10 @@ body {
 
 .cards__img {
   width: 100%;
+}
+
+.cards__img img {
+  height: 10rem;
 }
 
 .btn {
@@ -353,6 +357,10 @@ body {
     flex-basis: 1;
     height: 100%;
   }
+
+  .cards__img img {
+    height: 8rem;
+  }
 }
 
 /** =========================================================================                                                         Media Querie 1024
@@ -375,5 +383,9 @@ body {
 
   .article {
     flex-basis: 50%;
+  }
+
+  .cards__img img {
+    height: 13rem;
   }
 }
